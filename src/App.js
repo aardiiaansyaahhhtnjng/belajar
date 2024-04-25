@@ -10,7 +10,7 @@ const App = () => {
   return (      
     <Router>
       <Routes>
-        <Route path='/' element={<Home />} />
+        <Route path='https://aardiiaansyaahhhtnjng.github.io/belajar/' element={<Home />} />
         <Route path='*' element={<NotFound />} />
         <Route path='/modbus' element={<Modbus />} />
         <Route path='/sorting' element={<Sorting />} />
