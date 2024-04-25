@@ -4,10 +4,14 @@ import './index.css';
 import App from './App';
 import 'materialize-css/dist/css/materialize.min.css'
 import 'materialize-css/dist/js/materialize.min.js'
+import { HashRouter } from 'react-router-dom';
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
+  <HashRouter>
   <React.StrictMode>
     <App />
   </React.StrictMode>
+  </HashRouter>
 );

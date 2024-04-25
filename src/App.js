@@ -21,7 +21,7 @@ const App = () => {
     //     <Route path='/sorting' element={<Sorting />} />
     //   </Routes>
     // </Router>
-    <HashRouter basename='/'>
+    // <HashRouter basename='/'>
       <div>
         {/* <ul>
           <li><Link to="/">Home</Link></li>
@@ -31,7 +31,7 @@ const App = () => {
         <Route exact path="/" component={<Home />} />
         <Route path="/modbus" component={<Modbus />} />
       </div>
-    </HashRouter>
+    // </HashRouter>
   );
 }
 
