@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/belajar/static/css/main.c5ada07f.css",
-    "main.js": "/belajar/static/js/main.f3e66ebe.js",
+    "main.js": "/belajar/static/js/main.2f1316f0.js",
     "static/media/4.png": "/belajar/static/media/4.f99ee4964e0c75c7f6d7.png",
     "static/media/1.png": "/belajar/static/media/1.5d6b708fb982d6d6ea9b.png",
     "static/media/7.png": "/belajar/static/media/7.2efd02bd3cf0c77c0242.png",
@@ -12,24 +12,12 @@
     "static/media/8.png": "/belajar/static/media/8.443643f2d04cb757d25c.png",
     "static/media/ctrlxautomation.jpg": "/belajar/static/media/ctrlxautomation.4f8bfa81d34917224942.jpg",
     "static/media/modbus.png": "/belajar/static/media/modbus.9953e50a67c584bec4fd.png",
-    "static/media/Picture1.png": "/belajar/static/media/Picture1.aa8da28f6f518ae2265f.png",
-    "static/media/Picture2.png": "/belajar/static/media/Picture2.2ad4f25e2a0c934b8abf.png",
-    "static/media/Picture12.png": "/belajar/static/media/Picture12.0bffb108b3adffb1ce4c.png",
-    "static/media/Picture4.png": "/belajar/static/media/Picture4.032fd5c2aea7df1f5c56.png",
-    "static/media/Picture8.png": "/belajar/static/media/Picture8.789dc015e9c228c573ad.png",
-    "static/media/Picture9.png": "/belajar/static/media/Picture9.002fb82735a8959180e5.png",
-    "static/media/Picture10.png": "/belajar/static/media/Picture10.875d984ed01e73813619.png",
-    "static/media/Picture7.png": "/belajar/static/media/Picture7.304b2293b189c6f0cfa5.png",
-    "static/media/Picture3.png": "/belajar/static/media/Picture3.8f52627882c2eedde7d8.png",
-    "static/media/Picture11.png": "/belajar/static/media/Picture11.bf97b85fb403aa0ed46a.png",
-    "static/media/Picture6.png": "/belajar/static/media/Picture6.9f13c2cbca12a1400c21.png",
-    "static/media/Picture5.png": "/belajar/static/media/Picture5.139e321c240f243f84f4.png",
     "index.html": "/belajar/index.html",
     "main.c5ada07f.css.map": "/belajar/static/css/main.c5ada07f.css.map",
-    "main.f3e66ebe.js.map": "/belajar/static/js/main.f3e66ebe.js.map"
+    "main.2f1316f0.js.map": "/belajar/static/js/main.2f1316f0.js.map"
   },
   "entrypoints": [
     "static/css/main.c5ada07f.css",
-    "static/js/main.f3e66ebe.js"
+    "static/js/main.2f1316f0.js"
   ]
 }
