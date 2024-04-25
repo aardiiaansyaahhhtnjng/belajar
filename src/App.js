@@ -1,7 +1,8 @@
 import { BrowserRouter as 
   // Router, 
   // Routes, 
-  Route, HashRouter, 
+  Route, HashRouter,
+  Routes, 
   // Link 
 } from 'react-router-dom'
 import './App.css';
@@ -27,9 +28,11 @@ const App = () => {
           <li><Link to="/">Home</Link></li>
           <li><Link to="/modbus">Modbus</Link></li>          
         </ul> */}
-        <hr />
-        <Route exact path="/" component={<Home />} />
-        <Route path="/modbus" component={<Modbus />} />
+        {/* <hr /> */}
+        <Routes>
+          <Route exact path="/" component={<Home />} />
+          <Route path="/modbus" component={<Modbus />} />
+        </Routes>
       </div>
     // </HashRouter>
   );
